@@ -1,2 +1,2 @@
 # NLP
-Natural language processing
+Apply Natural language processing (NLP) on the wikipedia
