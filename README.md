@@ -1,2 +1,2 @@
 # NLP
-Apply Natural language processing (NLP) on the wikipedia
+This project aims to develop natural language processing (NLP) tools for use on Persian Wikipedia (fa.wikipedia.org)
